@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+*.log
+
+# Local Codex and plugin runtime state
+.codex/
+.agents/state/
+dataforseo.json
+
+# Local package manager caches
+.npm/
+.pnpm-store/

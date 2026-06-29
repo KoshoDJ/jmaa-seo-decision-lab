@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "seo-decision-lab": {
+      "command": "node",
+      "args": ["dist/server.js"],
+      "cwd": ".",
+      "note": "Local BYOK DataForSEO MCP server for SEO research, audits, backlinks, local SEO, and AI search monitoring."
+    }
+  }
+}

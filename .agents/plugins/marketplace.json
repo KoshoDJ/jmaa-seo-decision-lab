@@ -1,0 +1,20 @@
+{
+  "name": "seo-decision-lab",
+  "interface": {
+    "displayName": "SEO Decision Lab"
+  },
+  "plugins": [
+    {
+      "name": "seo-decision-lab",
+      "source": {
+        "source": "local",
+        "path": "./plugins/seo-decision-lab"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
